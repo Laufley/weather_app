@@ -1,3 +1,22 @@
+# The 2 open APIs used:
+
+OpenWeather API: https://openweathermap.org/
+GeoDB Cities API: https://rapidapi.com/wirefreethought/...
+
+# install accordion package:
+npm i react-accesible-accordion
+
+# install async paginate with --force due te potential old version:
+npm i react-select-async-paginate --force
+
+
+
+
+
+### ### ### ### ### ### ### 
+`STANDARD README STUFF NOW`
+### ### ### ### ### ### ### 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
