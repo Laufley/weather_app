@@ -31,8 +31,6 @@ const Search = ({ onSearchChange }) => {
         onSearchChange(searchData);
     }
 
-
-
     return (
         <AsyncPaginate
             placeholder='Search for City'
